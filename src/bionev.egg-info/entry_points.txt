@@ -1,0 +1,3 @@
+[console_scripts]
+bionev = bionev.main:more_main
+
