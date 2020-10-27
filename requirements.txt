@@ -23,7 +23,7 @@ click==7.1.2
 cloudpickle==1.4.1
 colorama==0.4.3
 colour==0.1.5
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.14
 decorator==4.4.2
